@@ -48,7 +48,7 @@ Outside of tech, I enjoy **video editing, photography, football**.
 
 ### Currently Exploring
 
-`FastAPI` `Flask` `SQL` `PostgreSQL` `Generative AI` `LLMs`
+`FastAPI` `Flask` `SQL` `PostgreSQL` `Generative AI` `LLMs` `Hugging Face`
 
 ### 👨‍💻 NEXUS — Next-Gen Coders United Society
 
